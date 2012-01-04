@@ -1,0 +1,1 @@
+example of javascript access to google api
